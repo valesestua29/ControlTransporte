@@ -1,4 +1,4 @@
-# Documentación del Código C
+# Proyecto Control de uso de transporte 
 
 Este documento describe el funcionamiento del código C provisto, el cual realiza la lectura de datos desde archivos binarios, calcula promedios de viajes en subte y tren, y ofrece un menú interactivo para mostrar diferentes análisis relacionados con los datos.
 
