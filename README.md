@@ -6,7 +6,6 @@ Este documento describe el funcionamiento del código C provisto, el cual realiz
 
 - `#include <stdio.h>`: Proporciona funciones para realizar operaciones de entrada y salida, como imprimir en pantalla y leer datos del usuario.
 - `#include <stdlib.h>`: Incluye funciones para la manipulación de memoria dinámica, control de procesos, conversiones y manejo de archivos.
-- `#include <conio.h>`: (Comentada) Se utilizó para resolver un problema relacionado con la función `getchar()` en algunos compiladores.
 
 ## Función Principal
 
